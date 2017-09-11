@@ -1,2 +1,4 @@
 # ExpressApplication
-Express 
+command to run application 
+
+>node server.js
